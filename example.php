@@ -57,7 +57,7 @@ for($x=0; $x <$arrlength; $x++)
 ?>
  -->
 
- <?php
+<?php
  /*Associative Array are arrays that use named keys that you assign to them.
  creating an Associative Array. */
  $age=array("peter"=> "35", "Ben"=> "37", "Joe"=>"43");
@@ -75,6 +75,8 @@ foreach ($age as $x=> $x_value)
 }
 */
 ?>
+ 
+
 
 
 
